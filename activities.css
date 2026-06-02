@@ -5,6 +5,7 @@
 body{
     display: flex; 
     background-color: cornflowerblue;
+    flex-direction: column;
 }
 
 main{
@@ -15,16 +16,14 @@ main{
     flex-direction: row;
 }
 
-header{
-    width:100vw; 
-    height:25vh;
-    
+h1{
+    text-align: center;
 }
 
-footer{
-    background-color: darkblue; 
-    border: 3px solid black;
-    color: white;
-    width: 100vw;
-    height: 15vh; 
+.text2{
+    text-align: center;
+}
+
+.section1{
+    flex-direction: row;
 }
