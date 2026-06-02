@@ -38,3 +38,9 @@ body{
     background-color: aliceblue;
     padding:10px;
 }
+
+h1{
+    background-color: rgb(166, 166, 241);
+    justify-content: center;
+    
+}
