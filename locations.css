@@ -1,0 +1,40 @@
+
+.img{ 
+    width:40vw;
+    height:40vh;
+}
+
+.div-1{
+    flex:1;
+     align-items: flex-start;
+     justify-content: center;
+     display: inline-block;
+     margin:20px;
+}
+.div-2{
+    flex:1;
+    flex-direction:row;
+     align-items: flex-start;
+     display: inline-block;
+}
+
+.stylez{ 
+    background-color: rgb(167, 167, 243);
+    height:4vh;
+    width:25vw;
+}
+
+.colors{
+    background-color: bisque;
+    width:15vw;
+    height:20vh;
+}
+
+body{
+    background-color:rgb(59, 59, 247);
+}
+
+.style{
+    background-color: aliceblue;
+    padding:10px;
+}
